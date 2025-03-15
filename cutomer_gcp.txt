@@ -1,2 +1,2 @@
-﻿Create table table name(
+Create table table name(col:datatype,col2:datatype
 );
